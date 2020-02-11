@@ -1,0 +1,5 @@
+test
+CMakeFiles
+.git
+*.ppm
+*.cmake

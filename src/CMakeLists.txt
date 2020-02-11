@@ -1,0 +1,1 @@
+add_library(src ppm_image.cc)
